@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Discover Rival</string>
+
+    <string-array name="titles">
+        <item>Tree Of The Sea</item>
+        <item>Hero Of The Ancestors</item>
+        <item>Witches Of The Gods</item>
+        <item>Turtles Without Shame</item>
+        <item>Invaders And Traitors</item>
+        <item>Turtles And Rats</item>
+        <item>Source Without A Conscience</item>
+        <item>Inception Of The Forsaken</item>
+        <item>Helping Technology</item>
+        <item>Prepare For My Husband</item>
+        <item>Agent With Honor</item>
+        <item>Foe Of Earth</item>
+        <item>Serpents Of Fortune</item>
+        <item>Foes Of The Light</item>
+        <item>Vultures And Men</item>
+        <item>Soldiers And Lions</item>
+        <item>Future Of The Sea</item>
+        <item>Annihilation Of Fortune</item>
+        <item>Escaping My Future</item>
+        <item>Temptations In The Shadows</item>
+        <item>Witch With Strength</item>
+        <item>Raven Of Reality</item>
+        <item>Swindlers Of Fire</item>
+        <item>Creators Of The Void</item>
+        <item>Creators And Butchers</item>
+        <item>Vultures And Rats</item>
+        <item>Staff Of The Stars</item>
+        <item>Surprise Of Yesterday</item>
+        <item>Guarded By My Dreams</item>
+        <item>Begging In The City</item>
+    </string-array>
+
+</resources>
